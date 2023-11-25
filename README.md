@@ -1,6 +1,6 @@
 # Java_development_internship
 
-![Internship Certificate](https://drive.google.com/file/d/1Sg1i9Ely5sQF8U01RgmPRHOGjzWtfhRx/view?usp=sharing)
+[Internship Certificate](https://drive.google.com/file/d/1Sg1i9Ely5sQF8U01RgmPRHOGjzWtfhRx/view?usp=sharing)
 
 ## Learning done during the entire Internship. 
 ## Project1
@@ -40,7 +40,6 @@ Project Description : it is a Number Guessing game. we have to guess a random nu
 Project name : Atm interface
 
 Programming launguage: Java
-
 
 IDE : Eclipse
 
