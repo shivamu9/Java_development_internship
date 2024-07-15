@@ -1,5 +1,9 @@
 # Java_development_internship
 
+Developed three projects from scratch, demonstrating proficiency in Java programming and application development.
+Successfully completed a self-paced virtual internship, showcasing strong time management and self-discipline.
+Gained practical experience in Java development by working on real-world problems, enhancing coding and problem-solving skills.
+
 [Internship Certificate](https://drive.google.com/file/d/1Sg1i9Ely5sQF8U01RgmPRHOGjzWtfhRx/view?usp=sharing)
 
 ## Learning done during the entire Internship. 
